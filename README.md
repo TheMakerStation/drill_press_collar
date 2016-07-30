@@ -1,4 +1,7 @@
 # drill_press_collar
 Replacement collar ring for the depth setting on the drill press at the makerspace
 
-Just reuse the existing xxxx screw
+Just download and print in PET/PLA/ABS with 3 perimeters and high infill.   Avoid printing in HIPS, it won't last long.
+Reuse the existing screws
+
+
