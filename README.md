@@ -5,4 +5,4 @@ Just download and print in PET/PLA/ABS with 3 perimeters and high infill.   Avoi
 Reuse the existing screws
 
 
-[https://github.com/TheMakerStation/drill_press_collar/blob/master/replacement_ring_drill_press.JPG?raw=true]
+![Collar rendering](https://github.com/TheMakerStation/drill_press_collar/blob/master/replacement_ring_drill_press.JPG?raw=true)
